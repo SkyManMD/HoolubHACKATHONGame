@@ -1,2 +1,2 @@
-HoolubHACKATHONGame
+Hoolub HACKATHON Game
 ===================
